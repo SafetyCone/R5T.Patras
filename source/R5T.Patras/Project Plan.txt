@@ -1,0 +1,4 @@
+R5T.Patras - An IContextualizedResource<TResource, TContext> types library.
+
+Goals
+
